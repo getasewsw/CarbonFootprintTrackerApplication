@@ -4,20 +4,23 @@
 
     <main>
         <section class="row" aria-labelledby="aspnetTitle">
-            <h1 id="aspnetTitle">ASP.NET</h1>
-            <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-            <p><a href="http://www.asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+            <h1 id="aspnetTitle">Carbon Footprint Tracker Application</h1>
+            <p class="lead">A carbon footprint is the total amount of greenhouse gases, primarily carbon dioxide (CO2),
+                emitted directly or indirectly by human activities, such as transportation, energy production, and industrial processes. 
+                It's a measure of the impact human activities have on the environment in terms of their contribution to climate change and global warming.</p>
+             <p><a runat="server" class="btn btn-primary btn-md" href="~/Account/Login">Log in &raquo;</a></p>
         </section>
 
         <div class="row">
             <section class="col-md-4" aria-labelledby="gettingStartedTitle">
-                <h2 id="gettingStartedTitle">Getting started</h2>
+                <h2 id="gettingStartedTitle">
+                    Harnessing Solar Energy: A Sustainable Solution for Power Generation</h2>
                 <p>
-                    ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-                A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-                </p>
-                <p>
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                    Solar energy is a sustainable and abundant resource that offers numerous benefits:
+                    Clean & Renewable: Solar power generates electricity without emitting greenhouse gases or pollutants, making it environmentally friendly.
+                    Cost-Effective: Advances in solar technology have reduced costs, making solar energy increasingly competitive with conventional sources.
+                    Versatile: Solar panels can be installed on rooftops, in solar farms, and integrated into buildings, providing flexible deployment options. 
+
                 </p>
             </section>
             <section class="col-md-4" aria-labelledby="librariesTitle">
