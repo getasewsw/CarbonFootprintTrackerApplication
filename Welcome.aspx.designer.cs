@@ -11,7 +11,7 @@ namespace CARBONFOOTPRINT_V2
 {
 
 
-    public partial class _Default
+    public partial class Welcome
     {
     }
 }

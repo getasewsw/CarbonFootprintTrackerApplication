@@ -1,12 +1,14 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="welcome.aspx.cs" Inherits="CARBONFOOTPRINT_V2._Default" %>
+﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="welcome.aspx.cs" Inherits="CARBONFOOTPRINT_V2.Welcome" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <main>
         <section class="row" aria-labelledby="aspnetTitle">
-            <h1 id="aspnetTitle">ASP.NET</h1>
-            <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-            <p><a href="http://www.asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+            <h1 id="aspnetTitle">Carbon Footprint Tracker Application</h1>
+            <p class="lead">A carbon footprint is the total amount of greenhouse gases, primarily carbon dioxide (CO2),
+                emitted directly or indirectly by human activities, such as transportation, energy production, and industrial processes. 
+                It's a measure of the impact human activities have on the environment in terms of their contribution to climate change and global warming.</p>
+             <p><a runat="server" class="btn btn-primary btn-md" href="~/Account/Login">Log in &raquo;</a></p>
         </section>
 
         <div class="row">
