@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CARBONFOOTPRINT_V2", "CARBONFOOTPRINT_V2.csproj", "{611DB100-6266-46BA-803B-84DDCB2EB463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{611DB100-6266-46BA-803B-84DDCB2EB463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611DB100-6266-46BA-803B-84DDCB2EB463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611DB100-6266-46BA-803B-84DDCB2EB463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611DB100-6266-46BA-803B-84DDCB2EB463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC1DB2EE-8787-4A5D-A9D4-E96BC19BC934}
+	EndGlobalSection
+EndGlobal
