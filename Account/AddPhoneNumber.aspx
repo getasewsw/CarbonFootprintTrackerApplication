@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <main aria-labelledby="title">
-        <h2 id="title"><%: Title %>.</h2>
+        <h2 id="title"></h2>
         <h4>Add a phone number</h4>
         <hr />
         <asp:ValidationSummary runat="server" CssClass="text-danger" />

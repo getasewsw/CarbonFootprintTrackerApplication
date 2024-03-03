@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CARBONFOOTPRINT_V2.Account {
-    
-    
-    public partial class ManageLogins {
-        
+namespace CARBONFOOTPRINT_V2.Account
+{
+
+
+    public partial class ManageLogins
+    {
+
         /// <summary>
         /// successMessage control.
         /// </summary>

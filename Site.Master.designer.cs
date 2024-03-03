@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CARBONFOOTPRINT_V2 {
-    
-    
-    public partial class SiteMaster {
-        
+namespace CARBONFOOTPRINT_V2
+{
+
+
+    public partial class SiteMaster
+    {
+
         /// <summary>
         /// MainContent control.
         /// </summary>

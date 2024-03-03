@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CARBONFOOTPRINT_V2.Account {
-    
-    
-    public partial class Confirm {
-        
+namespace CARBONFOOTPRINT_V2.Account
+{
+
+
+    public partial class Confirm
+    {
+
         /// <summary>
         /// successPanel control.
         /// </summary>
@@ -20,7 +22,7 @@ namespace CARBONFOOTPRINT_V2.Account {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.PlaceHolder successPanel;
-        
+
         /// <summary>
         /// login control.
         /// </summary>
@@ -29,7 +31,7 @@ namespace CARBONFOOTPRINT_V2.Account {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.HyperLink login;
-        
+
         /// <summary>
         /// errorPanel control.
         /// </summary>
@@ -38,6 +40,5 @@ namespace CARBONFOOTPRINT_V2.Account {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.PlaceHolder errorPanel;
-
     }
 }

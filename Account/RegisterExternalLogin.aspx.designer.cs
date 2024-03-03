@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CARBONFOOTPRINT_V2.Account {
-    
-    
-    public partial class RegisterExternalLogin {
-        
+namespace CARBONFOOTPRINT_V2.Account
+{
+
+
+    public partial class RegisterExternalLogin
+    {
+
         /// <summary>
         /// email control.
         /// </summary>

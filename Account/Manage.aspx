@@ -4,7 +4,7 @@
 
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
     <main aria-labelledby="title">
-        <h2 id="title"><%: Title %>.</h2>
+        <h2 id="title">Title</h2>
 
         <div>
             <asp:PlaceHolder runat="server" ID="successMessage" Visible="false" ViewStateMode="Disabled">

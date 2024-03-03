@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CARBONFOOTPRINT_V2.Account {
-    
-    
-    public partial class AddPhoneNumber {
-        
+namespace CARBONFOOTPRINT_V2.Account
+{
+
+
+    public partial class AddPhoneNumber
+    {
+
         /// <summary>
         /// ErrorMessage control.
         /// </summary>
@@ -20,7 +22,7 @@ namespace CARBONFOOTPRINT_V2.Account {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Literal ErrorMessage;
-        
+
         /// <summary>
         /// PhoneNumber control.
         /// </summary>

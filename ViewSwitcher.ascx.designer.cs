@@ -7,9 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CARBONFOOTPRINT_V2 {
-    
-    
-    public partial class ViewSwitcher {
+namespace CARBONFOOTPRINT_V2
+{
+
+
+    public partial class ViewSwitcher
+    {
     }
 }

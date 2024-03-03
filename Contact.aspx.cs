@@ -17,6 +17,5 @@ namespace CARBONFOOTPRINT_V2
         {
             // Your event handler logic here
         }
-
     }
 }
